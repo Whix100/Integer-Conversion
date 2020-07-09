@@ -1,0 +1,10 @@
+C:\Users\whix1\source\repos\Integer Converter\Integer Converter\bin\Debug\Integer Converter.exe.config
+C:\Users\whix1\source\repos\Integer Converter\Integer Converter\bin\Debug\Integer Converter.exe
+C:\Users\whix1\source\repos\Integer Converter\Integer Converter\bin\Debug\Integer Converter.pdb
+C:\Users\whix1\source\repos\Integer Converter\Integer Converter\obj\Debug\Integer Converter.csprojAssemblyReference.cache
+C:\Users\whix1\source\repos\Integer Converter\Integer Converter\obj\Debug\Integer_Converter.Form1.resources
+C:\Users\whix1\source\repos\Integer Converter\Integer Converter\obj\Debug\Integer_Converter.Properties.Resources.resources
+C:\Users\whix1\source\repos\Integer Converter\Integer Converter\obj\Debug\Integer Converter.csproj.GenerateResource.cache
+C:\Users\whix1\source\repos\Integer Converter\Integer Converter\obj\Debug\Integer Converter.csproj.CoreCompileInputs.cache
+C:\Users\whix1\source\repos\Integer Converter\Integer Converter\obj\Debug\Integer Converter.exe
+C:\Users\whix1\source\repos\Integer Converter\Integer Converter\obj\Debug\Integer Converter.pdb
